@@ -1,1 +1,1 @@
-
+int xBall, yBall
